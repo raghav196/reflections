@@ -1,0 +1,1 @@
+var frontend.external_a_host = 'https://api' + host + '.iflychat.com'
